@@ -1,0 +1,105 @@
+body
+    {background-color: #d1c3ad;
+    color: #000000;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px 20px 20px 30px}
+header
+   {color: #000000;
+    background-color: #ede7de;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    border-width:;}
+header a 
+    {text-decoration: none;
+    color: #000000;}
+h1
+    {margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    letter-spacing: 0.08em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;}
+nav 
+    {font-weight: bold;
+    font-size: 125%;
+    text-align: center;
+    border: 1px solid #000000;}
+nav a
+    {text-decoration: none;
+    color: #000000;
+    padding: 100px;}
+main
+    {padding-right: 150px;
+    padding-left: 150px;
+    background-color: #ede7de;
+    display: block;
+    overflow: auto;}
+ h2
+    {text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 120%;
+    margin-top: 10px;
+    font-style: italic;}
+p 
+    {font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+    background-color: #ffffff;
+    padding-top: 60px;}
+h3
+    {font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    text-align: center;
+    padding-top: 50px;}
+.services
+    {display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 75px;}
+section a
+    {text-decoration: none;
+    color: #000000;} 
+h4
+    {font-family: 'Times New Roman', Times, serif;
+    font-size: 75%;
+    text-align: center;}
+.testimonials
+    {display:flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #000000;}
+blockquote
+    {font-style: normal;
+    text-align: left;}
+.video
+    {display: flex;;
+    height: 300px;
+    width: auto;
+    border: 1px solid #ffffff;}
+.flex
+    {display:flex;
+    flex-direction: row;}
+#contact
+    {font-size: 90%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #000000;}
+#contact img
+    {vertical-align: middle;
+    margin-right: 10px;}
+
+footer 
+    {background-color: #ede7de;
+    font-size: 75%; 
+    font-style: italic;
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding: 5px;
+    margin-top: 20px;}
